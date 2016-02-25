@@ -1,11 +1,11 @@
 # Site settings
 title: 闫伟旗个人网站 - 关注编程、系统架构、性能优化
 name: yanweiqi Personal Site
-url:"yanweiqi.github.com"
+url: "yanweiqi.github.com"
 email: yanweiqi@yeah.net
 description: 闫伟旗 Personal Site - 关注编程、系统架构、性能优化 | baoan.wang
 baseurl: "" # the subpath of your site, e.g. /blog/
-github_username:  yanweiqi #Github ID
+github_username: yanweiqi #Github ID
 weibo_username: 2028078717 #Weibo ID
 duoshuo_username: 6255132176031942000 # Duoshuo ID
 baidushare_id: 1456383678 #  百度分享 ID
