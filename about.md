@@ -28,4 +28,5 @@ permalink: /about/
 
 * Github : [yanweiqi](https://github.com/yanweiqi)
 
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/2117486514/c3e417d3/1.png)](http://weibo.com/u/2117486514?s=6uyXnP)
+[![新浪微博](http://service.t.sina.com.cn/widget/qmd/2028078717/c3e417d3/1.png)](http://weibo.com/u/2028078717?s=6uyXnP)
+
