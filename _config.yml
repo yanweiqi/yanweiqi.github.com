@@ -1,7 +1,7 @@
 # Site settings
 title: 闫伟旗个人网站 - 关注编程、系统架构、性能优化
 name: yanweiqi Personal Site
-url: "yanweiqi.github.com"
+url: "http://waylau.com"
 email: yanweiqi@yeah.net
 description: 闫伟旗 Personal Site - 关注编程、系统架构、性能优化 | baoan.wang
 baseurl: "" # the subpath of your site, e.g. /blog/
