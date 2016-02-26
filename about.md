@@ -4,27 +4,27 @@ title: About
 permalink: /about/
 ---
 
-##关于作者
+## 关于作者
 
-###特长:
+### 特长
 
 * Java web programming development.
 * shell
 * Linux
 
-###爱好:
+### 爱好
 
 * 运动
 * 羽毛球
 
-###Contact:
+### 联系方式
 
 * mail: [yanweiqi@yeah.net](yanweiqi@yeah.net)
 * weibo: yanweiqi@msn.com	
 * csdn: [yanweiqi@yeah.net](http://blog.csdn.net/yyaannwweeiiqqii)
 * oschina: [yanweiqi@yeah.net](http://my.oschina.net/u/2958)
 
-###Open source:
+### 开放源码
 
 * Github : [yanweiqi](https://github.com/yanweiqi)
 
