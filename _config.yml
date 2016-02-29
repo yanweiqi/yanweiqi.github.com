@@ -7,7 +7,7 @@ description: 闫伟旗 Personal Site - 关注编程、系统架构、性能优�
 baseurl: "" # the subpath of your site, e.g. /blog/
 github_username: yanweiqi #Github ID
 weibo_username: 2028078717 #Weibo ID
-duoshuo_username: 6255132176031942000 # Duoshuo ID
+duoshuo_username: yanweiqi # Duoshuo ID
 baidushare_id: 1456383678 #  百度分享 ID
 baidutongji_id: 8211787 # 百度统计 ID
 rss_url: "/feed.xml"  # RSS 订阅 URL
