@@ -1,7 +1,7 @@
 # Site settings
 title: 闫伟旗个人网站 - 关注编程、系统架构、性能优化
 name: yanweiqi Personal Site
-url: "http://waylau.com"
+url: "http://blog.baoan.wang"
 email: yanweiqi@yeah.net
 description: 闫伟旗 Personal Site - 关注编程、系统架构、性能优化 | baoan.wang
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -14,11 +14,10 @@ rss_url: "/feed.xml"  # RSS 订阅 URL
 logo_image: "/images/logo.png"  # LOGO 图片地址
 # Build settings
 gems: [jekyll-paginate]
-kramdown: 
+kramdown:
 input: GFM
 syntax_highlighter: rouge
 highlighter: pygments
 permalink: /:title/
 paginate: 8
 paginate_path: page/:num
- 

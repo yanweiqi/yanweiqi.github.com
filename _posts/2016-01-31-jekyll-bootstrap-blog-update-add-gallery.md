@@ -4,11 +4,11 @@ title: Jekyll 博客主题 jekyll-bootstrap-blog 更新，支持相册展示
 date: 2016-01-31 02:41
 author: admin
 comments: true
-categories: [Blog,Jekyll]
-tags: [Blog,Jekyll,jekyll-bootstrap-blog]
+categories: [Jekyll]
+tags: [Jekyll]
 ---
 
-## New Features and Enhancements 
+## New Features and Enhancements
 
 Todey, with the help of [Lightbox2](<https://github.com/lokesh/lightbox2/>), `jekyll-bootstrap-blog` add a **Gallery** page  used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.
 
@@ -25,8 +25,3 @@ The `jekyll-bootstrap-blog` is a theme for Jekyll to build a personal blog. See 
 ## Demo
 
 You can see the theme running on [my blog](http://www.waylau.com/).
-
-
-
-
-

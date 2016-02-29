@@ -4,11 +4,11 @@ title: Jekyll 博客主题 jekyll-bootstrap-blog 更新，支持语法高亮
 date: 2016-01-03 02:41
 author: admin
 comments: true
-categories: [Blog,Jekyll]
-tags: [Blog,Jekyll,jekyll-bootstrap-blog]
+categories: [Jekyll]
+tags: [Jekyll]
 ---
 
-## New Features and Enhancements 
+## New Features and Enhancements
 
 Todey, there are two features added in `jekyll-bootstrap-blog`:
 
@@ -30,8 +30,3 @@ The `jekyll-bootstrap-blog` is a theme for Jekyll to build a personal blog. See 
 ## Demo
 
 You can see the theme running on [my blog](http://www.waylau.com/).
-
-
-
-
-

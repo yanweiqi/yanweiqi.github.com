@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 关于 jekyll 博客主题 jekyll-bootstrap-blog
+title: jekyll 博客主题 jekyll-bootstrap-blog
 date: 2015-04-27 02:41
 author: admin
 comments: true
-categories: [Blog,Jekyll]
-tags: [Blog,Jekyll,jekyll-bootstrap-blog]
+categories: [Jekyll]
+tags: [Jekyll]
 ---
 
 
@@ -80,5 +80,4 @@ Add content below this and save the post in `_posts` directory (you will have to
 
 Feel free to fork and contribute to the project, just create a pull request.
 
-Open sourced under [MIT License](LICENSE.md) 
-
+Open sourced under [MIT License](LICENSE.md)

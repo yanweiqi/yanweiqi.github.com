@@ -4,8 +4,8 @@ title: 关于 本 jekyll 主题 jekyll-theme-blog
 date: 2014-11-26 02:41
 author: admin
 comments: true
-categories: [Blog,Jekyll]
-tags: [Blog,Jekyll,jekyll-theme-blog]
+categories: [Jekyll]
+tags: [Jekyll]
 ---
 
 
@@ -38,7 +38,7 @@ You can see the theme running on [my blog](http://www.waylau.com/).
 	permalink: /:title/
 	paginate: 6
 	paginate_path: page/:num
-	
+
 	blog:
 	    name:  Way Lau's Blog                                 # 博客名称
 	    description: 技术改变世界！                             # 博客描述
@@ -74,5 +74,4 @@ Add content below this and save the post in `_posts` directory (you will have to
 
 Feel free to fork and contribute to the project, just create a pull request.
 
-Open sourced under [MIT License](LICENSE.md) 
-
+Open sourced under [MIT License](LICENSE.md)
