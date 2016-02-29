@@ -9,12 +9,6 @@ A theme for Jekyll to build a personal blog, based on [Bootstrap 3](http://getbo
 * Jekyll 3 Supported
 * SEO Friendly
 
-## Screenshots
-
-## Demo
-
-You can see the theme running on [my blog](http://www.waylau.com/).
-
 <!-- more -->
 
 ## Usage
