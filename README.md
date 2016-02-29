@@ -11,10 +11,6 @@ A theme for Jekyll to build a personal blog, based on [Bootstrap 3](http://getbo
 
 ## Screenshots
 
-![](http://99btgc01.info/uploads/2016/01/01.jpg)
-
-![](http://99btgc01.info/uploads/2016/01/02%281%29.jpg)
-
 ## Demo
 
 You can see the theme running on [my blog](http://www.waylau.com/).
@@ -33,19 +29,19 @@ You can see the theme running on [my blog](http://www.waylau.com/).
 
 ```
 # Site settings
-title: Way Lau's Personal Site
-name: Way Lau's Personal Site
-url: "http://www.waylau.com"
-email: waylau521@gmail.com
-description: Way Lau's Personal Site | www.waylau.com.
-baseurl: "" # the subpath of your site, e.g. /blog/
-twitter_username: waylau521
-github_username:  waylau
-weibo_username: waylau521
-facebook_username: waylau521
-duoshuo_username: waylau
-baidushare_id: 89860593
-baidutongji_id: 28cf5fa48a599e39c5cc760931de942f
+title: 
+name: 
+url: 
+email: 
+description: 
+baseurl: 
+twitter_username: 
+github_username:  
+weibo_username: 
+facebook_username: 
+duoshuo_username: 
+baidushare_id: 
+baidutongji_id: 
 rss_url: "/feed.xml"
 logo_image: "/images/logo.png"
 # Build settings
