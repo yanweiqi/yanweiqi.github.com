@@ -14,8 +14,14 @@ rss_url: "/feed.xml"  # RSS 订阅 URL
 logo_image: "/images/logo.png"  # LOGO 图片地址
 # Build settings
 gems: [jekyll-paginate]
+markdown: kramdown
 kramdown:
-input: GFM
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+use_coderay: true
 syntax_highlighter: rouge
 highlighter: pygments
 permalink: /:title/

@@ -7,6 +7,12 @@ comments: true
 categories: [linux,awk]
 tags: [awk,linux]
 ---
+
+* 目录
+{:toc}
+
+--------------------------
+
 ## AWK编程
 
    awk是最难掌握的一种shell脚本处理工具，因为awk语法复杂，并包含了太多的程序细节。
