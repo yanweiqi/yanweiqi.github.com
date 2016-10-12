@@ -27,7 +27,7 @@ $ cd redis-3.0.7
 $ make
 ```
 **注意** make命令执行完成编译后，会在src目录下生成6个可执行文件，分别是redis-server、redis-cli、redis-benchmark、redis-check-aof、redis-check-dump、redis-sentinel。
-![Alt text](/images/redis/1.png)
+
 
 ### 执行安装
 
@@ -41,7 +41,6 @@ $ make install
 
 * 进入解压目录redis-2.8.24/utils，执行install_server.sh配置Redis
 
-![Alt text](/images/redis/2.jpg)
 
 **注意**
 
